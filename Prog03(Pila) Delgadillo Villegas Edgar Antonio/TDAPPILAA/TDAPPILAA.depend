@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1633071658 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\libros.cpp
+	"Libros.h"
+	<iostream>
+
+1633071786 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\libros.h
+	<iostream>
+
+1633074163 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\main.cpp
+	<iostream>
+	"Libros.h"
+	"Pila.h"
+
+1633071786 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\pila.h
+	<iostream>
+	"Libros.h"
+	"Nodo.h"
+
+1633071786 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\nodo.h
+	<iostream>
+	"Libros.h"
+
+1633070518 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\nodo.cpp
+	"Nodo.h"
+
+1633074273 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdappilaa\pila.cpp
+	"Pila.h"
+

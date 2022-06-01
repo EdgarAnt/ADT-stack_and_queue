@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1633062391 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\cola.cpp
+	"Cola.h"
+	"Libros.h"
+	"Nodo.h"
+
+1633059483 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\cola.h
+	"Nodo.h"
+	"Libros.h"
+
+1633059472 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\nodo.h
+	<iostream>
+	"Libros.h"
+
+1633059461 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\libros.h
+	<iostream>
+
+1633062477 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\libros.cpp
+	"Libros.h"
+	<iostream>
+
+1633074390 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\main.cpp
+	<iostream>
+	"Libros.h"
+	"Cola.h"
+
+1633061565 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdaacola\nodo.cpp
+	"Nodo.h"
+
